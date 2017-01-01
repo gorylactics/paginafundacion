@@ -1,16 +1,14 @@
 *{
 	margin: 0;
 	padding: 0;
+	background-image: url('img/niñofondo.jpg');
+}
 
+.container{
+	max-width: 100%;
+	background-color: red;
 	
 }
-
-/*.fondonavbar{
-	background-color: blue
-}*/
-
-}
-
 
 .menu:hover {
 	text-decoration: none;
