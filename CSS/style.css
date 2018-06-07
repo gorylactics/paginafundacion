@@ -1,13 +1,14 @@
 *{
 	margin: 0;
 	padding: 0;
-	background-image: url('img/niñofondo.jpg');
+	
 }
 
-.container{
-	max-width: 100%;
-	background-color: red;
-	
+body{
+/*	background-image: url('../img/ninofondo.jpg');*/
+	size: cover;
+	background-color: #58ACFA;
+
 }
 
 .menu:hover {
@@ -22,7 +23,41 @@
 .fotos_carrusel{
 	max-width: 70%;
 	position: relative;
-	margin:30px 10% 30px 10%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 15%;
+	border-radius: 25px 25px 25px 25px;
+	box-shadow: 0 15px 20px 0 #5882FA;
 
 }
+
+.container{
+	max-width: 100%;
+	float: left;
+	
+}
+
+.tamano{
+	width: 50%;
+	size: 
+}
+
+
+.texto{
+	position: relative;
+	max-width: 100%;
+	float: left;
+
+/*}*/
+
+/*.imagen{
+	position: relative;
+	max-width: 100px;*/
+	
+
+
+/*}*/
+
+
+
 
