@@ -1,37 +1,30 @@
 *{
 	margin: 0;
 	padding: 0;
-	background-color: #3A8BC7;
+
+	
+}
+
+/*.fondonavbar{
+	background-color: blue
+}*/
 
 }
 
-.navbar1{
-	background-color: #4c4c4ca3;
-	/*opacity: 0.8;*/
-}
-
-.logo{
-	max-width: 75px;
-}
-
-
-.menu{
-	float: left;
-	color:white;
-	text-align: left;
-
-}
 
 .menu:hover {
 	text-decoration: none;
+}
+
+.logo{
+	width: 80px;
+	float: left;
+}
+
+.fotos_carrusel{
+	max-width: 70%;
+	position: relative;
+	margin:30px 10% 30px 10%;
 
 }
 
-/*.navbar1{
-	position: fixed;
-
-}
-
-.body{
-	margin-top: 10%;
-}*/
