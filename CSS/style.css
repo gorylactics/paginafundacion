@@ -11,6 +11,10 @@ body{
 
 }
 
+.navbar{ 
+	box-shadow: 0 5px 10px 0 #6E6E6E;
+}
+
 .hamburguesa{
 	color:red;
 }
@@ -30,7 +34,7 @@ body{
 .fotos_carrusel{
 	max-width: 70%;
 	position: relative;
-	margin-top: 30px;
+	margin-top: 70px;
 	margin-bottom: 30px;
 	margin-left: 15%;
 	border-radius: 25px 25px 25px 25px;
@@ -58,20 +62,21 @@ body{
 .rrss{
 	width: 15%;
 	margin-left: 5%;
+	margin-top: 75px;
 }
 
 .elementosfooter{
-	float: right;
+	float: left;
+	margin-top: 20px;	
 }
-/*}*/
 
-/*.imagen{
-	position: relative;
-	max-width: 100px;*/
-	
+.container__footer{
 
+	background-color: #2E64FE;
+	margin-top: 20px;
+	border-radius: 25px 25px 0 0;	
 
-/*}*/
+}
 
 
 
