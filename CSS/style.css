@@ -53,8 +53,16 @@ body{
 .texto{
 	position: relative;
 	max-width: 100%;
-	float: left;
+	float: left;}
 
+.rrss{
+	width: 15%;
+	margin-left: 5%;
+}
+
+.elementosfooter{
+	float: right;
+}
 /*}*/
 
 /*.imagen{
